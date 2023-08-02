@@ -9,6 +9,7 @@ function App() {
     <div className="App">
         <Numero />
         <Botao />
+        <p>versão 0.1.0</p>
     </div>
   );
 }
